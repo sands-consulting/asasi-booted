@@ -1,6 +1,6 @@
 <?php
 
-namespace Asasi\Booted;
+namespace Sands\Asasi\Booted;
 
 class Booted
 {
