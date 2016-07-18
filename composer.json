@@ -1,7 +1,7 @@
 {
     "name": "sands/asasi-booted",
     "description": "Laravel Booted Trait",
-    "keywords": ["", "laravel", "boot"],
+    "keywords": ["asasi", "laravel", "boot"],
     "license": "MIT",
     "authors": [
          {
